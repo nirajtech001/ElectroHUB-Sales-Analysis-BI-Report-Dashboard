@@ -73,13 +73,14 @@ The dataset follows a **star schema** design, consisting of:
 ## **Insights and Visualizations**
 ### **Key Questions Answered**
 1. **Top/Bottom 5 Products**: By sales, profit, and quantity sold.
+   (Images/top_bottom5.PNG)
 2. **Sales Trends**: Analysis over time (daily, monthly, quarterly, yearly).
-3. **Sales-Profit Relationship**: Identify patterns and anomalies.
-4. **Period Comparison**: Compare sales, profit, and quantity sold between two periods.
-5. **Discount Analysis**: Average discount offered across categories.
-6. **Order Count**: Total number of orders processed.
-7. **Detailed Order Information**: Filterable by product, date, customer ID, or promotion categories.
-8. **Sales by City**: Geographic sales distribution.
+4. **Sales-Profit Relationship**: Identify patterns and anomalies.
+5. **Period Comparison**: Compare sales, profit, and quantity sold between two periods.
+6. **Discount Analysis**: Average discount offered across categories.
+7. **Order Count**: Total number of orders processed.
+8. **Detailed Order Information**: Filterable by product, date, customer ID, or promotion categories.
+9. **Sales by City**: Geographic sales distribution.
 
 ### **Dashboard Highlights**
 - **Donut Chart**: Product category contribution to total sales.
