@@ -5,6 +5,13 @@ This project involves creating a comprehensive Power BI dashboard for ElectroHub
 
 ---
 
+### **Dashboard Overview**
+The dashboard provides an interactive summary of sales, profit, and discounts across multiple dimensions.
+
+![Dashboard Overview](Images/dashboard.png)
+
+---
+
 ## **Data Source**
 The data for this project is sourced from:
 1. **SQL Server**: Primary data source.
