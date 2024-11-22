@@ -76,18 +76,20 @@ The dataset follows a **star schema** design, consisting of:
    ![](Images/top_bottom5.PNG)
 2. **Sales Trends**: Analysis over time (daily, monthly, quarterly, yearly).
    ![](Images/trend_analysis.PNG)
-3. **Period Comparison**: Compare sales, profit, and quantity sold between two periods.
+   ![](Images/trend_analysis1.PNG)
+   ![](Images/trend_analysis2.PNG)
+4. **Period Comparison**: Compare sales, profit, and quantity sold between two periods.
    ![](Images/data_range_dax.PNG)
-4. **Sales-Profit Relationship**: Identify patterns and anomalies.
-5. **Discount Analysis**: Average discount offered across categories.
-6. **Order Count**: Total number of orders processed.
-7. **Sales by City**: Geographic sales distribution.
+5. **Sales-Profit Relationship**: Identify patterns and anomalies.
+6. **Discount Analysis**: Average discount offered across categories.
+7. **Order Count**: Total number of orders processed.
+8. **Sales by City**: Geographic sales distribution.
   ![](Images/location_filter.PNG)
   ![](Images/sales_by_region.PNG)
-8. **Detailed Order Information**: Filterable by product, date, customer ID, or promotion categories.
+9. **Detailed Order Information**: Filterable by product, date, customer ID, or promotion categories.
   ![](Images/table_analysis.PNG)
 
-9. **Additional Insights**: repeat customers, promotional discount ROI, profit contribution by state and total sales to profit flow
+10. **Additional Insights**: repeat customers, promotional_discount ROI, profit contribution by state and total sales to profit flow
 ![](Images/additional_insights.PNG)
 
 ### **Dashboard Highlights**
