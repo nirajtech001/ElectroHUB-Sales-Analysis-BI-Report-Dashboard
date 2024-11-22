@@ -75,17 +75,24 @@ The dataset follows a **star schema** design, consisting of:
 1. **Top/Bottom 5 Products**: By sales, profit, and quantity sold.
    ![](Images/top_bottom5.PNG)
 2. **Sales Trends**: Analysis over time (daily, monthly, quarterly, yearly).
-   ![Dashboard Overview](Images/top_bottom5.PNG)
+   ![](Images/trend_analysis.PNG)
+3. **Period Comparison**: Compare sales, profit, and quantity sold between two periods.
+   ![](Images/data_range_dax.PNG)
 4. **Sales-Profit Relationship**: Identify patterns and anomalies.
-5. **Period Comparison**: Compare sales, profit, and quantity sold between two periods.
-6. **Discount Analysis**: Average discount offered across categories.
-7. **Order Count**: Total number of orders processed.
+5. **Discount Analysis**: Average discount offered across categories.
+6. **Order Count**: Total number of orders processed.
+7. **Sales by City**: Geographic sales distribution.
+  ![](Images/location_filter.PNG)
+  ![](Images/sales_by_region.PNG)
 8. **Detailed Order Information**: Filterable by product, date, customer ID, or promotion categories.
-9. **Sales by City**: Geographic sales distribution.
+  ![](Images/table_analysis.PNG)
+
+9. **Additional Insights**: repeat customers, promotional discount ROI, profit contribution by state and total sales to profit flow
+![](Images/additional_insights.PNG)
 
 ### **Dashboard Highlights**
-- **Donut Chart**: Product category contribution to total sales.
-- **Funnel Chart**: Sales flow from discounts to profit.
+- **Donut Chart**: Profit contribution by each state .
+- **Funnel Chart**: Sales flow from total sales to profit.
 - **Bar and Line Charts**: Time-based sales trends.
 - **Scatter Plot**: Sales vs. profit relationship.
 - **Slicers and Filters**: Interactive filters for product categories, date ranges, and customer demographics.
