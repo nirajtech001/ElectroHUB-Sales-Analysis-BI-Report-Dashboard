@@ -73,7 +73,7 @@ The dataset follows a **star schema** design, consisting of:
 ## **Insights and Visualizations**
 ### **Key Questions Answered**
 1. **Top/Bottom 5 Products**: By sales, profit, and quantity sold.
-   (Images/top_bottom5.PNG)
+   ![Dashboard Overview](Images/top_bottom5.PNG)
 2. **Sales Trends**: Analysis over time (daily, monthly, quarterly, yearly).
 4. **Sales-Profit Relationship**: Identify patterns and anomalies.
 5. **Period Comparison**: Compare sales, profit, and quantity sold between two periods.
